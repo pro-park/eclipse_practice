@@ -8,6 +8,7 @@ public class BranchTest {
 		
 		System.out.println("changed from eclipse");
 		System.out.println("edit from github");
+		System.out.println("new");
 	}
 
 }
